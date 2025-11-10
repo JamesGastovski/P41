@@ -1,5 +1,5 @@
 {
-	"extends": "@sindresorhus/tsconfig",
+	"extends": "@jamesgastovski/tsconfig",
 	"compilerOptions": {
 		"outDir": "dist-js",
 		"target": "ES2022",
