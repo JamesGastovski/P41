@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<br>
-	<a href="https://github.com/sindresorhus/caprine">
+	<a href="https://github.com/JamesGastovski/P41">
 		<img src="media/AppIcon-readme.png" width="200" height="200">
 	</a>
 	<h1>Caprine</h1>
