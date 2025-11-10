@@ -11,10 +11,10 @@
 	<br>
 	<br>
 	<p>
-		Caprine is an unofficial and privacy-focused Facebook Messenger app with many useful features.
+		P41 is an unofficial and privacy-focused Facebook Messenger app with many useful features.
 	</p>
 	<b>
-		Caprine is feature complete. However, we welcome contributions for improvements and bug fixes.
+		P41 is feature complete. However, we welcome contributions for improvements and bug fixes.
 	</b>
 	<br>
 		<a href="https://github.com/sindresorhus/caprine">
